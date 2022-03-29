@@ -5,10 +5,15 @@
 - **Safe-Zone**:
 
   - Um local seguro para interagir com outros jogadores e fazer negociações com jogadores ou NPC's.
+   
+    - _Obs: Não é possível atirar, mirar, sofrer dano ou roubar veiculos dentro de uma safe-zone._
+    - _Obs: Nós não nos responsabilizamos por possíveis campers que possam agir nas redondezas; a zona é bem extensa, você deve tomar cuidado para chegar até lá._
+  
+  <br>
 
-    _Obs: Nós não nos responsabilizamos por possíveis campers que possam agir nas redondezas; a zona é bem extensa, vocês devem tomar cuidado para chegar até lá._
-
-  <img src="./images/1.png" width=450 alt="Imagem da safe-zone"/>
+  <div align="center">
+    <img src="./images/1.png" width=450 alt="Imagem da safe-zone"/>
+  <div/>
 
 - **Traders**:
 
