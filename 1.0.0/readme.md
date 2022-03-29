@@ -44,6 +44,7 @@
 
 - Diversos bugs de renderização de construções.
 - Bug que fazia o jogador "travar" ao utilizar um medicamento ou realizar algumas outras ações específicas.
+- Diversas colisões de objetos foram **otimizadas**.
 
 ---
 
