@@ -5,10 +5,10 @@
 - **Safe-Zone**:
 
   - Um local seguro para interagir com outros jogadores e fazer negociações com jogadores ou NPC's.
-   
+
     - _Obs: Não é possível atirar, mirar, sofrer dano ou roubar veiculos dentro de uma safe-zone._
     - _Obs: Nós não nos responsabilizamos por possíveis campers que possam agir nas redondezas; a zona é bem extensa, você deve tomar cuidado para chegar até lá._
-  
+
   <br>
 
   <div align="center">
@@ -25,6 +25,7 @@
   - Funcionam da mesma maneira que os negociantes comuns, a única diferença é que aparecem em locais aleatórios no mapa (principalmente fora da safe-zone), e eles negociam os itens mais raros.
 
 - **Novas Bases**:
+
   - Base 11 (Categoria 1).
   - Base 12 (Categoria 1).
   - Base 13 (Categoria 1).
@@ -33,6 +34,9 @@
 
 - **Novas variedades de itens ao nascer**.
 - **Indicadores na HUD mostrando se os status subiram ou desceram**.
+  <div align="center">
+    <img src="./images/hud_stats.png" width=200 alt="Imagem da safe-zone"/>
+  <div/>
 
 ---
 
@@ -47,8 +51,9 @@
 
 - Agora não é mais possível remover as peças de um veículo caso ele esteja acima de 5km/h.
 - Agora não é mais possível abastecer veículos em movimento.
-- Diminuido o tamanho da *Caixa de Madeira* no inventário.
-- Agora as *Minas Terrestres* explodirão ao serem atingidas por tiros.
+- Diminuido o tamanho da _Caixa de Madeira_ no inventário.
+- Agora as _Minas Terrestres_ explodirão ao serem atingidas por tiros.
+
 ---
 
 ## **REMOVIDO**:
