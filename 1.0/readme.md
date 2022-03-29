@@ -1,4 +1,4 @@
-# Changelog - 1.0.0
+# Changelog - 1.14
 
 ## **ADICIONADO**:
 
@@ -6,7 +6,7 @@
 
   - Um local seguro para interagir com outros jogadores e fazer negociações com jogadores ou NPC's.
 
-    - _Obs: Não é possível atirar, mirar, sofrer dano ou roubar veiculos dentro de uma safe-zone._
+    - _Obs: Não é possível atirar, mirar, sofrer dano ou roubar veículos dentro de uma safe-zone._
     - _Obs: Nós não nos responsabilizamos por possíveis campers que possam agir nas redondezas; a zona é bem extensa, você deve tomar cuidado para chegar até lá._
 
   <br>
@@ -51,7 +51,7 @@
 
 - Agora não é mais possível remover as peças de um veículo caso ele esteja acima de 5km/h.
 - Agora não é mais possível abastecer veículos em movimento.
-- Diminuido o tamanho da _Caixa de Madeira_ no inventário.
+- Diminuído o tamanho da _Caixa de Madeira_ no inventário.
 - Agora as _Minas Terrestres_ explodirão ao serem atingidas por tiros.
 
 ---
