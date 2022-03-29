@@ -32,6 +32,8 @@
   - Base 9 (Categoria 4).
 
 - **Novas variedades de itens ao nascer**.
+- **Indicadores na HUD mostrando se os status subiram ou desceram**.
+
 ---
 
 ## **CORRIGIDO**:
