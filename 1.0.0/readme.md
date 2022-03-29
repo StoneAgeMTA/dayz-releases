@@ -45,7 +45,8 @@
 
 - Agora não é mais possível remover as peças de um veículo caso ele esteja acima de 5km/h.
 - Agora não é mais possível abastecer veículos em movimento.
-
+- Diminuido o tamanho da *Caixa de Madeira* no inventário.
+- Agora as *Minas Terrestres* explodirão ao serem atingidas por tiros.
 ---
 
 ## **REMOVIDO**:
