@@ -26,6 +26,7 @@
   - Base 6 (Categoria 3).
   - Base 9 (Categoria 4).
 
+- **Novas variedades de itens ao nascer**.
 ---
 
 ## **CORRIGIDO**:
