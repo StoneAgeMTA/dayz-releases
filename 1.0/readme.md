@@ -1,4 +1,4 @@
-# Changelog - 1.14
+# Changelog - 1.0
 
 ## **ADICIONADO**:
 
