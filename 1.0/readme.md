@@ -50,7 +50,7 @@
 
 ## **ALTERADO**:
 
-- Agora não é mais possível remover as peças de um veículo caso ele esteja acima de 5km/h.
+- Agora não é mais possível remover as peças de um veículo caso ele esteja em movimento.
 - Agora não é mais possível abastecer veículos em movimento.
 - Diminuído o tamanho da _Caixa de Madeira_ no inventário.
 - Agora as _Minas Terrestres_ explodirão ao serem atingidas por tiros.
