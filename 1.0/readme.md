@@ -6,7 +6,7 @@
 
   - Um local seguro para interagir com outros jogadores e fazer negociações com jogadores ou NPC's.
 
-    - _Obs: Não é possível atirar, mirar, sofrer dano ou roubar veículos dentro de uma safe-zone._
+    - _Obs: Não é possível atirar, mirar, sofrer dano ou remover outros jogadores de veículos enquanto estiver dentro de uma safe-zone._
     - _Obs: Nós não nos responsabilizamos por possíveis campers que possam agir nas redondezas; a zona é bem extensa, você deve tomar cuidado para chegar até lá._
 
   <br>
