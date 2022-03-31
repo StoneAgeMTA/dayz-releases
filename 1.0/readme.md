@@ -17,7 +17,7 @@
 
 - **Traders**:
 
-  - NPC's negociantes que ficam dentro da safe-zone. Eles aceitam uma uma moeda chamada "Gold".
+  - NPC's negociantes que ficam dentro da safe-zone. Eles aceitam uma nova moeda chamada "Gold".
     Cada trader possui sua própria carteira e seu próprio estoque. Ou seja, os traders irão revender os itens que compraram de outros jogadores, e caso o seu dinheiro acabe, eles não podem comprar mais nenhum item até que outro jogador compre algum item deles. A mesma lógica é aplicada no estoque; caso seus estoques sejam esgotados, eles só poderão vender após comprar o item de outro jogador.
 
 - **Traders (Mercado Negro)**:
