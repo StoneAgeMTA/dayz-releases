@@ -58,7 +58,12 @@
 - Diminuído o tamanho da _Caixa de Madeira_ no inventário.
 - Agora as _Minas Terrestres_ explodirão ao serem atingidas por tiros.
 - Houveram diversas mudanças em diversos locais do mapa, principalmente na vegetação.
-
+- Foram aplicadas diversas mudanças no loot:
+  - Visando evitar o desbalanceamento do servidor por conta dos traders, o loot em geral foi dificultado.
+  - Tendas médicas também poderão spawnar outros tipos de itens além de medicamentos.
+    <div align="center">
+      <img src="./images/mta-screen_2022-03-31_16-05-36.png" width=400 alt="Imagem da safe-zone"/>
+    <div/>
 ---
 
 ## **REMOVIDO**:
