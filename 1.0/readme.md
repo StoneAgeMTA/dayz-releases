@@ -54,6 +54,7 @@
 - Agora não é mais possível abastecer veículos em movimento.
 - Diminuído o tamanho da _Caixa de Madeira_ no inventário.
 - Agora as _Minas Terrestres_ explodirão ao serem atingidas por tiros.
+- Houveram diversas mudanças em diversos locais do mapa, principalmente na vegetação.
 
 ---
 
