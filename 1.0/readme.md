@@ -23,7 +23,7 @@
 - **Traders (Mercado Negro)**:
 
   - Funcionam da mesma maneira que os negociantes comuns, a única diferença é que aparecem em locais aleatórios no mapa (principalmente fora da safe-zone), e eles negociam os itens mais raros.
-    - OBS: Eles podem enviar mensagens através do *Rádio Comunicador* informando suas localizações.
+    - Obs: Eles podem enviar mensagens através do *Rádio Comunicador* informando suas localizações.
 
 - **Novas Bases**:
 
