@@ -46,6 +46,8 @@
 - Diversos bugs de renderização de construções.
 - Bug que fazia o jogador "travar" ao utilizar um medicamento ou realizar algumas outras ações específicas.
 - Diversas colisões de objetos foram **otimizadas**.
+- Bug que fazia o personagem não conseguir subir ou descer de veículos após interagir com certos tipos de itens.
+  - Obs: Por conta dessa correção, agora também não será mais possível entrar ou descer de veículos enquanto seu inventário estiver aberto.
 
 ---
 
