@@ -1,9 +1,13 @@
 # Changelog - 1.01
 
 ## **ADICIONADO**:
-- Comando /unbug.
+- Comando /unbug:
   - Você deve utilizar esse comando quando ficar preso dentro de algum bug do mapa.
   - Esse comando vai te teletransportar para o ponto de spawn mais próximo depois de 3 minutos.
+- Atalho para trancar/destrancar veículos:
+  - Ao utilizar a tecla "K" você poderá trancar/destrancar o veiculo que você está dirigindo.
+  - Outros jogadores não conseguem acessar o inventário do seu veiculo e nem entrar nele, caso ele esteja trancado.
+  - Os veículos só ficam trancados enquanto há um motorista dentro dele, ou seja, se você de descer do carro ele será liberado automáticamente.
 - Base 7 (Categoria 3).
 - Base 8 (Categoria 3).
 - Base 9 (Categoria 3).
