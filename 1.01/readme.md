@@ -41,10 +41,9 @@
 
 ## **AGRADECIMENTOS:**
 
-Reportou diversos bugs             |  Reportou diversos bugs | Ajudou a testar
-:-------------------------:|:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/89032856/162682644-53fdac5f-6733-4984-af52-2133a5b22847.png)  |  ![image](https://user-images.githubusercontent.com/89032856/162682765-0baf5ad9-b777-43f6-b981-2b43cd54b0bf.png) | ![image](https://user-images.githubusercontent.com/89032856/162683663-74c31f3a-f2a5-4090-a0ec-828248773015.png)
-
+Reportou diversos bugs             |  Reportou diversos bugs 
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/89032856/162682644-53fdac5f-6733-4984-af52-2133a5b22847.png)  |  ![image](https://user-images.githubusercontent.com/89032856/162682765-0baf5ad9-b777-43f6-b981-2b43cd54b0bf.png)
 
 ---
 
