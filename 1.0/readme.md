@@ -72,6 +72,6 @@
 
 ---
 
-[Anterior](https://google.com)
-
-[Próximo](https://google.com)
+Anterior             |  Próximo 
+:-------------------------:|:-------------------------:
+|  | [Versão 1.01](https://stoneagemta.com/dayz-releases/1.01)
