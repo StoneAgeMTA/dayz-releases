@@ -47,4 +47,7 @@ Reportou diversos bugs             |  Reportou diversos bugs
 
 ---
 
-[Anterior](https://github.com/StoneAgeMTA/dayz-releases/blob/master/1.0/readme.md)
+← Anterior             |  Próximo →
+:-------------------------:|:-------------------------:
+[Versão 1.0](https://stoneagemta.com/dayz-releases/1.0) | [Versão 1.02](https://stoneagemta.com/dayz-releases/1.02)
+
