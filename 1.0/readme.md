@@ -75,4 +75,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-|  | [Versão 1.01](https://stoneagemta.com/dayz-releases/1.01)
+|  | [Versão 1.01](https://stoneagemta.com/releases/dayz/1.01)
