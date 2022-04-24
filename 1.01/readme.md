@@ -1,4 +1,5 @@
 # Changelog - 1.01
+---
 
 ## **ADICIONADO**:
 - Comando /unbug:
