@@ -41,6 +41,8 @@
 ## **REMOVIDO**:
 - Possibilidade de matar o jogador pelas costas com o golpe especial de faca.
 
+---
+
 ## **AGRADECIMENTOS:**
 
 Reportou diversos bugs             |  Reportou diversos bugs 
