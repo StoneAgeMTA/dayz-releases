@@ -51,5 +51,5 @@ Reportou diversos bugs             |  Reportou diversos bugs
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.0](https://stoneagemta.com/dayz-releases/1.0) | [Versão 1.02](https://stoneagemta.com/dayz-releases/1.02)
+[Versão 1.0](https://stoneagemta.com/releases/dayz/1.0) | [Versão 1.02](https://stoneagemta.com/releases/1.02)
 
