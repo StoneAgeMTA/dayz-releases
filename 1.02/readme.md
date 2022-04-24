@@ -1,4 +1,5 @@
 # Changelog - 1.02
+---
 
 ## **ADICIONADO**:
 - Possível solução para macro de correr.
