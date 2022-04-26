@@ -22,7 +22,7 @@ Base 11 (Categoria 3)             |  Base 11 (Categoria 2)             |  Base 1
 - Bug que permitia burlar o alarme de algumas bases caso ela estivesse com o portão aberto.
 - Bug que permitia jogar com o nickname colorido caso houvesse outro jogador utilizando o mesmo nome.
 - Bug que fazia ser impossível abrir um veiculo caso o motorista morra dentro dele e ele esteja trancado.
-- Bug que fazia o corpo do zumbir ficar rotacionando.
+- Bug que fazia o corpo do zumbi ficar rotacionando.
 - Bug que fazia o jogador ganhar kill ao morrer afogado.
 ---
 
