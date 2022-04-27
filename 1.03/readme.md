@@ -19,6 +19,7 @@
 ---
 
 ## **CORRIGIDO**:
+- Bug que fazia a camera continuar "mirando" caso o jogador removesse a arma da mão enquanto mirava.
 
 ---
 
