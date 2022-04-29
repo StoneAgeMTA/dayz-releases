@@ -21,7 +21,7 @@
     <img src="https://user-images.githubusercontent.com/89032856/165939147-28d9d667-65e1-455a-befe-90b86997113a.png" width="300" />
   <div/>
 
-- Agora será possível encontrar alguns itens abandonados dentro de dos carros do cenário:
+- Agora será possível encontrar alguns itens abandonados dentro dos carros do cenário:
   <div align="center">
     <img src="https://user-images.githubusercontent.com/89032856/165940079-cf9c7c7e-b95f-4bee-b4c0-b48ef2f1189f.png" width="300" />
   <div/>
