@@ -16,18 +16,43 @@
 | Maverick (Apenas Skin Modificada) | <img src="https://user-images.githubusercontent.com/89032856/165423736-f29aebb6-69f5-487e-b81c-8b0452f56cec.png" width=250/>  |  |  |
 | BF Injection | <img src="https://user-images.githubusercontent.com/89032856/165423813-b26ec4e3-5f05-49b4-b508-320d9b87ee10.png" width=250/>  | 4x5 | 2 |
 
+- Informações na HUD geral:
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/89032856/165939147-28d9d667-65e1-455a-befe-90b86997113a.png" width="300" />
+  <div/>
+
+- Agora será possível encontrar alguns itens abandonados dentro de dos carros do cenário:
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/89032856/165940079-cf9c7c7e-b95f-4bee-b4c0-b48ef2f1189f.png" width="300" />
+  <div/>
+
+- Painel F4:
+  - Lista todos os servidores administrados pela equipe StoneAge e permite que o jogador se conecte em qualquer um deles.
+    <div align="center">
+      <img src="https://user-images.githubusercontent.com/89032856/165940249-57bb97af-2a56-43f3-9ee7-537b064472ae.png" width="300" />
+    <div/>
+
 ---
 
 ## **CORRIGIDO**:
 - Bug que fazia a camera continuar "mirando" caso o jogador removesse a arma da mão enquanto mirava.
-
+- Bug que fazia a pirâmide de LV ficar sem colisão.
 ---
 
 ## **ALTERADO**:
-
+- A qualidade das tendas foi diminuida consideravelmente visando melhoria de desempenho.
+- Mudanças no "anti-macro":
+  - Agora é possível abrir o inventário enquanto corre.
+  - Agora é possível utilizar armas brancas enquanto corre.
+- Aumentado o tamanho do inventário da kombi (Camper) para 7x7.
+- Mudanças a recuperação de sangue:
+  - Agora o sangue irá subir gradativamente junto com a vida caso o jogador se mantenha hidratado e alimentado.
+  - O tempo de recuperação até 100% é quase o dobro em relação ao tempo para encher a vida até 100%.
+ - Não será mais possível remover uma arma da mão enquanto ela está sendo recarregada.
 ---
 
 ## **REMOVIDO**:
+- Spawn de helicrash de dentro da safe-zone.
 
 ---
 
