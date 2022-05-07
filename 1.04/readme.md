@@ -18,7 +18,7 @@
 - Crafting de *Ghillie*: Agora finalmente será possível craftar as famosas *Ghillie Suits*!
   - Segue a receita:
     - 2 *Tiras de Pano* + 1 *Rede*: *Capuz Ghillie.*
-    - 4 *Tiras de Pano* + 1 *Rede*: *Capa Guillie.*
+    - 4 *Tiras de Pano* + 1 *Rede*: *Capa Ghillie.*
 
 - Sistema de fogueira: agora será possível coletar recursos para craftar uma fogueira e assar seus alimentos.
   - Alimentos ingeridos sem o devido preparo irão causar vômito.
