@@ -50,6 +50,8 @@
 ## **ALTERADO**:
 - A quantidade de zumbis foi levemente diminuida.
 
+- Os zumbis ficaram mais resistentes. (Apenas no servidor 2)
+
 - A escala da HUD geral foi aumentada.
 
 - Diversos objetos do cenário foram otimizados visando principalmente melhoria de desempenho.
