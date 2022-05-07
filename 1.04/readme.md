@@ -42,7 +42,7 @@
 ---
 
 ## **CORRIGIDO**:
-- Foi aplicada uma *possível* solução para o bug que faz o jogador sair do carro ou começar a atirar sózinho após abrir o inventário.
+- Foi aplicada uma *possível* solução para o bug que faz o jogador sair do carro ou começar a atirar sozinho após abrir o inventário.
 
 - Bug que fazia as munições ultrapassarem o limite máximo de stack quando removidas de uma arma.
 ---
