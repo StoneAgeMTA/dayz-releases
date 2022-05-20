@@ -64,4 +64,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.03](https://stoneagemta.com/releases/dayz/1.03) |
+[Versão 1.03](https://stoneagemta.com/releases/dayz/1.03) | [Versão 1.05](https://stoneagemta.com/releases/dayz/1.05) 
