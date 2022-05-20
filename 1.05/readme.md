@@ -8,13 +8,13 @@
 | Nome | Imagem |
 | :--: | :--: |
 | Bizon | <img src="https://user-images.githubusercontent.com/89032856/169622502-553a1053-d77e-4913-a96e-8d931dbfc264.png" height=100/> |
-| CZ61 | <img src="https://user-images.githubusercontent.com/89032856/169622532-3055a343-5c30-4c9d-920b-5841fc0a32a9.png" height=100/> |
-| CZ550 | <img src="https://user-images.githubusercontent.com/89032856/169622582-024f753f-2a64-4ebd-b298-669385b7592d.png" height=100/> |
-| Desert Eagle | <img src="https://user-images.githubusercontent.com/89032856/169622616-e4cb78b2-89ce-4305-924f-540f96b39b1e.png" height=100/> |
-| Famas | <img src="https://user-images.githubusercontent.com/89032856/169622641-f60dae87-c09c-489e-87ed-f4375a339a1b.png" height=100/> |
-| Groza | <img src="https://user-images.githubusercontent.com/89032856/169622674-e2631e89-9dfc-4511-8a04-ec0869ed7c09.png" height=100/> |
-| M16 | <img src="https://user-images.githubusercontent.com/89032856/169622689-6df85897-6956-4b6c-afba-e3909a902c37.png" height=100/> |
-| Scout | <img src="https://user-images.githubusercontent.com/89032856/169622717-5fe1a574-86b4-439f-9842-bfdb0c595b06.png" height=100/> |
+| CR-61 Skorpion | <img src="https://user-images.githubusercontent.com/89032856/169622532-3055a343-5c30-4c9d-920b-5841fc0a32a9.png" height=100/> |
+| CZ-550 | <img src="https://user-images.githubusercontent.com/89032856/169622582-024f753f-2a64-4ebd-b298-669385b7592d.png" height=100/> |
+| Deagle | <img src="https://user-images.githubusercontent.com/89032856/169622616-e4cb78b2-89ce-4305-924f-540f96b39b1e.png" height=100/> |
+| Famas F1 | <img src="https://user-images.githubusercontent.com/89032856/169622641-f60dae87-c09c-489e-87ed-f4375a339a1b.png" height=100/> |
+| Groza-4 | <img src="https://user-images.githubusercontent.com/89032856/169622674-e2631e89-9dfc-4511-8a04-ec0869ed7c09.png" height=100/> |
+| M16-A2 | <img src="https://user-images.githubusercontent.com/89032856/169622689-6df85897-6956-4b6c-afba-e3909a902c37.png" height=100/> |
+| Pioneer | <img src="https://user-images.githubusercontent.com/89032856/169622717-5fe1a574-86b4-439f-9842-bfdb0c595b06.png" height=100/> |
 
 
 
