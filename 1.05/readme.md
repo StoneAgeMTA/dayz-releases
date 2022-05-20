@@ -26,7 +26,7 @@
 | Imagem | Receita do crafting |
 | :--: | :--: |
 | <img src="https://user-images.githubusercontent.com/89032856/169623907-5cd26fa6-6f22-46c5-95e4-46a4fe3fac60.png" height=100/> | 99 *Pregos* + 2 *Lenhas*
-| <img src="https://user-images.githubusercontent.com/89032856/169623907-5cd26fa6-6f22-46c5-95e4-46a4fe3fac60.png" height=100/> | 99 *Pregos* + 3 *Lenhas*
+| <img src="https://user-images.githubusercontent.com/89032856/169624637-f240d553-4fef-4789-afc8-e341affe5d46.png" height=100/> | 99 *Pregos* + 3 *Lenhas*
 
 
 
