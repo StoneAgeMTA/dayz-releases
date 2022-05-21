@@ -54,7 +54,7 @@
 
 ## **ALTERADO**:
 - As chances de spawnar tendas foram diminuidas drasticamente.
-- A capacidade de armazenamento das tendas e barris foram aumentadas significativamente.
+- A capacidade de armazenamento das tendas e barris foi aumentada significativamente.
 - O item *Lenha* poderá ser stackado em 3 unidades.
 
 ---
