@@ -60,7 +60,6 @@
 ---
 
 ## **REMOVIDO**:
-- Bomba de gasolina do aeroporto de Las Venturas.
 
 ---
 
