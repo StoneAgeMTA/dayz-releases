@@ -8,4 +8,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.05](https://stoneagemta.com/releases/dayz/1.05) |
+[Versão 1.05](https://stoneagemta.com/releases/dayz/1.05) |[Versão 1.06](https://stoneagemta.com/releases/dayz/1.06)
