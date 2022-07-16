@@ -1,4 +1,4 @@
-# Changelog - 1.06
+# Changelog - 1.07
 
 ---
 
@@ -79,7 +79,7 @@
 ---
 
 ## **ALTERADO**:
-- Agora `M249` só irá spawnar em crashes.
+- Agora a `M249` só irá spawnar em crashes.
 - Diminuido chance de spawnar `Mina Terrestre`, `Tundra` e algumas mochilas grandes.
 - Veículos ficarão congelados dentro das bases quando não houver um motorista.
 - Foi modificada a textura de algumas bases.
