@@ -93,4 +93,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.06](https://stoneagemta.com/releases/dayz/1.06) |
+[Versão 1.06](https://stoneagemta.com/releases/dayz/1.06) | [Versão 1.08](https://stoneagemta.com/releases/dayz/1.08)
