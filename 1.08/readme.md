@@ -11,13 +11,18 @@
   <p align='center'>
     <img src="https://user-images.githubusercontent.com/89032856/187016411-6e83fce5-39fd-45f3-a4a6-669a3a5473ac.png" height=300/>
   </p>
-
+- Comando /discord.
+- Mensagem automática enviando o link do discord no chat.
+- Zumbis agora serão atraidos pelo som dos tiros.
+- BlackMarket que compra Antídoto Zumbi.
 ---
 
 ## **CORRIGIDO**:
 - Bug que fazia o jogador continuar mutado mesmo após a punição acabar.
 - Bug visual nas escadas do aeroporto de San Fierro.
 - Bug visual em um dos tank-crashes.
+- Bug que fazia o jogador parar de mirar ao trocar de arma rapidamente.
+  - OBS: Agora não será mais possível trocar de item na mão enquanto você estiver com a mira ativada.
 ---
 
 ## **ALTERADO**:
@@ -25,7 +30,7 @@
 ---
 
 ## **REMOVIDO**:
-- 
+- Radiação de Angel Pine (Whetstone)
 ---
 
 ← Anterior             |  Próximo →
