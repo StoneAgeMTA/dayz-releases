@@ -35,4 +35,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.07](https://stoneagemta.com/releases/dayz/1.07) |
+[Versão 1.07](https://stoneagemta.com/releases/dayz/1.07) | [Versão 1.09](https://stoneagemta.com/releases/dayz/1.09)
