@@ -13,6 +13,14 @@
   <img src="https://user-images.githubusercontent.com/89032856/196827920-e45b59e6-9d52-4d6e-ac1d-6fc6f17e9087.png" height=450/>
 </p>
 
+- Trader de veículos:
+  - Os veiculos comprados não respawnam;
+  - Ele tem estoque super limitado e gerenciado manualmente pela equipe do servidor;
+  - Não é possível vender veículos para o bot, apenas comprar.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89032856/196831381-54dba0a5-9989-4211-995e-4a6bacea5031.png" height=450/>
+</p>
+
 - Novas funções administrativas;
 
 - Novas bases (servidores #1 e #3):
