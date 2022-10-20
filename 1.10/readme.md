@@ -28,7 +28,7 @@
 | Nome | Imagem |
 | :--: | :--: |
 | Base 13 (Categoria 4) | <img src="https://user-images.githubusercontent.com/89032856/196827550-7845a51a-7b8f-484f-85d6-42db2895347f.png" height=250/> |
-| Base 13 (Categoria 4) | <img src="https://user-images.githubusercontent.com/89032856/196827700-96170979-c267-4ef0-9b50-29fa993af812.png" height=250/> |
+| Base 16 (Categoria 3) | <img src="https://user-images.githubusercontent.com/89032856/196827700-96170979-c267-4ef0-9b50-29fa993af812.png" height=250/> |
 
 ---
 
@@ -69,4 +69,4 @@
 
 ← Anterior |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.09](https://stoneagemta.com/releases/dayz/1.09) |
+[Versão 1.09](https://stoneagemta.com/releases/dayz/1.09) | [Versão 1.10.1](https://stoneagemta.com/releases/dayz/1.10.1)
