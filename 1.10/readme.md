@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/89032856/196827920-e45b59e6-9d52-4d6e-ac1d-6fc6f17e9087.png" height=450/>
 </p>
 
-- Novas funções administrativas.
+- Novas funções administrativas;
 
 - Novas bases (servidores #1 e #3):
 
