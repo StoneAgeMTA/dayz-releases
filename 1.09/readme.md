@@ -32,4 +32,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.08](https://stoneagemta.com/releases/dayz/1.08) |
+[Versão 1.08](https://stoneagemta.com/releases/dayz/1.08) | [Versão 1.10](https://stoneagemta.com/releases/dayz/1.10)
