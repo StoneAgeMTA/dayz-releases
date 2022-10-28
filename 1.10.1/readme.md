@@ -12,4 +12,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.10](https://stoneagemta.com/releases/dayz/1.10) |
+[Versão 1.10](https://stoneagemta.com/releases/dayz/1.10) | [Versão 1.10.2](https://stoneagemta.com/releases/dayz/1.10.2)
