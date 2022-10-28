@@ -1,7 +1,7 @@
 # Changelog - 1.10.2
 
 # **ADICIONADO**:
-- Opção de filtrar apenas as bases disponiveis na lista de bases.
+- Opção de exibir apenas as bases disponiveis na lista.
 ---
 ## **CORRIGIDO**:
 - Diversos bugs de textura no mapa.
