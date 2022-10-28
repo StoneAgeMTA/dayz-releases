@@ -1,6 +1,6 @@
 # Changelog - 1.10.2
 
-# **ADICIONADO**:
+## **ADICIONADO**:
 - Opção de exibir apenas as bases disponiveis na lista.
 ---
 ## **CORRIGIDO**:
