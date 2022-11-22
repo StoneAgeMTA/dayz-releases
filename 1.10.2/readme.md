@@ -11,4 +11,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.10.1](https://stoneagemta.com/releases/dayz/1.10.1) |
+[Versão 1.10.1](https://stoneagemta.com/releases/dayz/1.10.1) |[Versão 1.11](https://stoneagemta.com/releases/dayz/1.11)
