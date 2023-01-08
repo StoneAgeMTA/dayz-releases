@@ -45,4 +45,4 @@ Colete Plate de Natal | Mochila de Natal | Bengala Doce de Natal |
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.11](https://stoneagemta.com/releases/dayz/1.11) |
+[Versão 1.11](https://stoneagemta.com/releases/dayz/1.11) | [Versão 1.13](https://stoneagemta.com/releases/dayz/1.13)
