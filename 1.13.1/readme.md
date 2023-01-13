@@ -11,4 +11,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.13](https://stoneagemta.com/releases/dayz/1.13) |
+[Versão 1.13](https://stoneagemta.com/releases/dayz/1.13) | [Versão 1.13.2](https://stoneagemta.com/releases/dayz/1.13.2)
