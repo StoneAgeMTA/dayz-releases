@@ -48,4 +48,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.13.2](https://stoneagemta.com/releases/dayz/1.13.2) |
+[Versão 1.13.2](https://stoneagemta.com/releases/dayz/1.13.2) | [Versão 1.15](https://stoneagemta.com/releases/dayz/1.15)
