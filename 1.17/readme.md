@@ -52,7 +52,6 @@
 
 <img src="https://i.imgur.com/XizcRXI.png" width=500 />
 
-- Adicionada a funcionalidade de remover a ghillie de coletes e capacetes, ao combiná-los com uma faca.
 - Adicionado som de interação com armas.
 - Adicionada nova funcionalidade a Saline Bag, que hidrata e reduz a fome em um valor entre 10 e 20 para cada uso. 
 - Adicionado delay para utilizar o comando /kill.
