@@ -31,4 +31,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.15](https://stoneagemta.com/releases/dayz/1.15) |
+[Versão 1.15](https://stoneagemta.com/releases/dayz/1.15) | [Versão 1.17](https://stoneagemta.com/releases/dayz/1.17)
