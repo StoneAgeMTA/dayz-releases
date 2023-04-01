@@ -55,6 +55,7 @@
 - Adicionado som de interação com armas.
 - Adicionada nova funcionalidade a Saline Bag, que hidrata e reduz a fome em um valor entre 10 e 20 para cada uso. 
 - Adicionado delay para utilizar o comando /kill.
+- Agora é possível recuperar a flecha da Crossbow após o disparo.
 
 ## **ALTERADO**:
 - **Modificações consideráveis que podem impactar positivamente no FPS**.
