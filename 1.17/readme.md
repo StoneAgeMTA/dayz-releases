@@ -57,11 +57,15 @@
 - Adicionado delay para utilizar o comando /kill.
 - Agora é possível recuperar a flecha da Crossbow após o disparo.
 
+---
+
 ## **ALTERADO**:
 - **Modificações consideráveis que podem impactar positivamente no FPS**.
 - A Barret teve seu dano alterado de 175 para 210.
 - A M70 Tundra teve seu dano alterado de 100 para 170.
 - Alterado o som de disparo da crossbow.
+
+---
 
 ## **CORRIGIDO**:
 - Era possível cortar a animação de utilização de itens caso utilizasse outra animação ao mesmo tempo.
@@ -71,8 +75,12 @@
 - Corrigido a função de retirar os jogadores de dentro da base, da base 8 cat 3.
 - Corrigido a função de retirar os jogadores de dentro da base, da base 3 cat 2.
 
+---
+
 ## **REMOVIDO**:
 - Removido Herobrine.
+
+---
 
 ## **AGRADECIMENTOS ESPECIAIS**:
 | Login#0179 | Surfista#2160 | Duckzinn#9307 | Castro#1519 | gordin#4052 | LeaozinDoJ5#6989 | Jackson / One-#5328 | Realone2#5469 |
