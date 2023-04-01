@@ -1,7 +1,7 @@
 # Changelog - 1.17
 
 ## **ADICIONADO**:
-- Adicionados novos coletes: **Black Vest Plate** e **Camo Vest Plate**.
+- Adicionados novos coletes: **Black Plate Vest** e **Camo Vest Plate**.
 
 | Black Plate Vest | Camo Plate Vest |
 |------------------|-----------------|
