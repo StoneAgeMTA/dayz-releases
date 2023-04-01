@@ -13,9 +13,9 @@
 | Gas Mask Helmet | K6-3 Helmet |
 |-----------------|-------------|
 | ![Gas Mask Helmet](https://i.imgur.com/KULteIc.png) | ![K6-3 Helmet](https://i.imgur.com/MmksPU2.png)
-> Gas Mask Helmet oferece 45% de proteção e protege contra radiação. É encontrado em locais de queda de aviões.
+> Gas Mask Helmet oferece 45% de proteção e protege contra radiação. É encontrado em locais de crashs.
 
-> K6-3 Helmet oferece 65% de proteção e é encontrado em locais de queda de aviões.
+> K6-3 Helmet oferece 65% de proteção e é encontrado em locais de crashs.
 
 - Agora é possível combinar coletes com Ghillie Top e capacetes militares com Ghillie Hood.
   - Para remover a ghillie do equipamento basta combinar o colete ou capacete em sua versão ghillie com uma faca.
