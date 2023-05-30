@@ -29,7 +29,8 @@
 ---
 
 ## **ALTERADO**:
-- Diversos veículos tiveram suas skins otimizadas/corrigidas, como `Hotring Racer`, `Slamvan`, `Uranus`, `Wayfarer` e `Greenwood`.
+- Diversos veículos tiveram suas skins otimizadas/corrigidas, como `Hotring Racer`, `Slamvan`, `Uranus`, `Wayfarer` e `Greenwood`;
+- Diversos objetos foram otimizados.
 ---
 
 ## **CORRIGIDO**:
