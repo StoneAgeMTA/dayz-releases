@@ -39,7 +39,7 @@
 
 ## **REMOVIDO**:
 - Spawn de tundra em fazendas;
-- Erro na traducao do item Ushanka Hat;
+- Erro na tradução do item Ushanka Hat;
 - Informação errada sobre a munição da Groza na sua descrição.
 
 ---
