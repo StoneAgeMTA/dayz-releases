@@ -89,6 +89,7 @@
 
 ---
 
-← Anterior             | 
-:----------------------:
-[Versão 1.16](https://stoneagemta.com/releases/dayz/1.16) |
+← Anterior             |  Próximo →
+:-------------------------:|:-------------------------:
+[Versão 1.16](https://stoneagemta.com/releases/dayz/1.16) | [Versão 1.18](https://stoneagemta.com/releases/dayz/1.18)
+
