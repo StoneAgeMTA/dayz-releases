@@ -44,6 +44,7 @@
 - Área 51 retrabalhada:
 
 <img src="https://i.imgur.com/u4YAKaw.png" width=800 height=400 />
+
 - Alterado modelo do veículo **FCR-900**:
 
 | BF-400 |
