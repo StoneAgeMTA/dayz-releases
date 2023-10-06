@@ -2,6 +2,7 @@
 
 ## **ADICIONADO**:
 - **Adicionado permissão para remover, montar e retirar itens de tendas, no painel administrativo da base.**
+- Novas funções no sistema de Anti-cheat.
 - Adicionados novas armas e nova munição: **AS-VAL**, **SA-58 V** e **9x39mm**.
 
 | AS-VAL | SA-58 V | 9x39mm | 9x39mm Packed |
