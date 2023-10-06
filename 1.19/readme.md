@@ -47,8 +47,8 @@
 
 - Alterado modelo do veículo **FCR-900**:
 
-| BF-400 |
-|--------|
+| FCR-900 |
+|---------|
 |<img src="https://i.imgur.com/4CcqNZv.png" width=500 height=300 /> |
 
 ---
