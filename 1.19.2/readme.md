@@ -5,6 +5,7 @@
 - Novo ícone indicando a condição da máscara de gás equipada.
 
 <img src="https://cdn.discordapp.com/attachments/658919142543589378/1179312598278217738/mta-screen_2023-11-29_03-42-32.png?ex=65795371&is=6566de71&hm=c3a8e48ffe31ca4a522d74a027e8fcbac5256777f0a839e0d7579987bfeab965&" width=300 height=200 />
+
 - Whitelist.
 	- É necessário acessar o Discord e seguir o passo-a-passo disponibilizado no canal de dúvidas frequentes.
 - Vínculo com o usuário do Discord e o serial.
