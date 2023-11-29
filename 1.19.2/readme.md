@@ -58,6 +58,7 @@
 | <img src="https://images-ext-2.discordapp.net/external/Z8pS8WOA9X_Z4wGIIi96ZBgF5_fnI-ONDN1D7x1dJFE/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/242304145913020417/2b6e1b669e8ffa9061266ba64050e44f.png?format=webp&quality=lossless" width=137 height=100 /> | <img src="https://cdn.discordapp.com/attachments/928291018288300173/1179319752380923969/27c5ec1020bba2b0391946e18fc0c9d7.png?ex=65795a1b&is=6566e51b&hm=f4305f345675ee47322098cb859c1534107923349b018943e8626d00a87a4e8a&" width=120 height=100 /> | 
 | Anti-Evade patches | Whitelist patches |
 
+
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
 [Versão 1.19.1](https://www.stoneagemta.com/releases/dayz/1.19.1) |
