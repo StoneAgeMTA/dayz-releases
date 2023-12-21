@@ -45,7 +45,7 @@
 
 | Ghillie Hood | Ghillie Top | 
 |--------------|---------------|
-| ![Ghillie Hood](https://i.imgur.com/RuV6PQm.png) | ![Ghillie Top](https://i.imgur.com/beSVUq1.png) |
+| ![Ghillie Hood](https://i.imgur.com/hbcgNmU.png) | ![Ghillie Top](https://i.imgur.com/WGlnz0i.png) |
 
 - Possibilidade de esfolar animais com facão.
 - Alterado a distância de renderização de todos os equipamentos e armas.
