@@ -41,6 +41,11 @@
 
 
 ## **ALTERADO**:
+- Alterado a textura da Ghillie Suit.
+
+| Ghillie Hood | Ghillie Top | 
+|--------------|---------------|
+| ![Ghillie Hood](https://i.imgur.com/RuV6PQm.png) | ![Ghillie Top](https://i.imgur.com/beSVUq1.png) |
 
 - Possibilidade de esfolar animais com facão.
 - Alterado a distância de renderização de todos os equipamentos e armas.
