@@ -48,7 +48,10 @@
 - Alterado o tempo de desmaio, para um valor aleatório entre 25 a 35 segundos.
 - Adicionado maior quantidade de zumbis pelo mapa.
 - Alterado a vida e a distância de visão dos gorilas e lobos.
----
+- Alterado a durabilidade de todos os equipamentos para armas.
+
+## **REMOVIDO**:
+- Retirado as luzes dos postes de todas as cididades.
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
