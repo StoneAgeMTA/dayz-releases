@@ -51,7 +51,7 @@
 - Alterado a durabilidade de todos os equipamentos para armas.
 
 ## **REMOVIDO**:
-- Retirado as luzes dos postes de todas as cididades.
+- Retirado as luzes dos postes de todas as cidades.
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
