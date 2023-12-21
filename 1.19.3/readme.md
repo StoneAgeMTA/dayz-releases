@@ -20,9 +20,9 @@
 | ![Barrett](https://i.imgur.com/w1MkiDK.png) | ![M70 Tundra](https://i.imgur.com/IZkWQx1.png) |
 
 - Árvores de natal com presentes.
-
-![Three](https://i.imgur.com/1d0zUd4.png)
   - A cada 1 hora e 30 minutos presentes serão deixados em árvores de natal que estão espalhadas pelo mapa. Você deverá interagir com os presentes para desembrulhar os itens em seu interior.
+  
+![Three](https://i.imgur.com/1d0zUd4.png)
 
 - Adicionado novo acampamento militar:
 ![Map](https://i.imgur.com/p12qwcY.png)
