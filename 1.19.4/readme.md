@@ -5,19 +5,20 @@
 
 | Base 18 categoria 1 |
 |------------------|
-| ![18-1](https://i.imgur.com/LmG0kBv.png)
+| ![18-1](https://i.imgur.com/LmG0kBv.png) |
 
 | Base 19 categoria 1 |
 |---------------------|
-| ![19-1](https://i.imgur.com/NHrMESB.png)
+| ![19-1](https://i.imgur.com/NHrMESB.png) |
 
 | Base 18 categoria 2 |
 |---------------------|
-| ![18-2](https://i.imgur.com/31TENQg.png)
+| ![18-2](https://i.imgur.com/31TENQg.png) |
 
 | Base 19 categoria 2 |
-| ![19-2](https://i.imgur.com/Sue2o5w.png)
-
+|---------------------|
+| ![19-2](https://i.imgur.com/Sue2o5w.png) |
+    
 ## **ALTERADO**:
 - Contraste e brilho das texturas do mundo.
 - Base 4 categoria 2 realocada, além de receber nova modelagem.
