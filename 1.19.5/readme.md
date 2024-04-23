@@ -26,4 +26,4 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.19.3](https://www.stoneagemta.com/releases/dayz/1.19.4) |
+[Versão 1.19.4](https://www.stoneagemta.com/releases/dayz/1.19.4) |
