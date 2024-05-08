@@ -20,6 +20,11 @@
 <img src="https://i.imgur.com/Zv8Ixt4.png" width=800 />
 <img src="https://i.imgur.com/4IvMj9N.png" width=800 />
 
+- Alterado o modelo da base 12 de categoria 4:
+
+<img src="https://i.imgur.com/DVjh0Cn.png" width=800 />
+<img src="https://i.imgur.com/iOQlcrv.png" width=800 />
+
 - Alterado os sons de efeito dos zumbis.
 - Diversas alterações de segurança (anti-cheat)
 - Atualização para a última versão do Code Guard anti-cheat.
