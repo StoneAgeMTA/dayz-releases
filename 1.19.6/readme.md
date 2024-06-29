@@ -4,7 +4,7 @@
 
 - Adicionado sons de ataque e sons de guarda nos zumbis.
 - Adicionado novo ciclo de dias e noites.
-   - Dias claros e longos, e noites escuras e rápidas.
+   - Dias claros e longos. Noites escuras e rápidas.
 - Adicionado melhorias no VAC Anti-cheat.
 
 
