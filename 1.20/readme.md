@@ -41,7 +41,7 @@
 
 - Logs de banimentos no Discord;
 - Novos spawns de galinhas e lobos.
-
+_____
 ## **ALTERADO**:
 - Reduzido e/ou removido a probabilidade de encontrar certos tipos de armas em diferentes locais do mapa;
 - Reduzido e/ou removido a probabilidade de encontrar certos tipos de munições em diferentes locais do mapa;
@@ -71,7 +71,7 @@
 
 ## **CORRIGIDO**:
 - 
-
+_____
 ## **REMOVIDO**:
 - 
 _____
