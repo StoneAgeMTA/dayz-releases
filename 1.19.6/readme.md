@@ -25,5 +25,5 @@
 
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.19.5](https://www.stoneagemta.com/releases/dayz/1.19.5) |
+[Versão 1.19.5](https://www.stoneagemta.com/releases/dayz/1.19.5) | [Versão 1.20](https://www.stoneagemta.com/releases/dayz/1.20) |
 
