@@ -66,7 +66,8 @@
 | Base 14 (Categoria 1) | <img src="https://i.imgur.com/uu7RKln.png" height=250/> |
 | Base 15 (Categoria 1) | <img src="https://i.imgur.com/PokcadT.png" height=250/> |
 
-- Diversas melhorias no Anti-cheat (VAC Anti-cheat).
+- Diversas melhorias no Anti-cheat (VAC Anti-cheat);
+- Ao desmaiar não será possível abrir o mapa e inventário, e nem se movimentar;
 
 ## **CORRIGIDO**:
 - 
