@@ -68,7 +68,7 @@ _____
 
 - Diversas melhorias no Anti-cheat (VAC Anti-cheat);
 - Ao desmaiar não será possível abrir o mapa e inventário, e nem se movimentar;
-
+_____
 ## **CORRIGIDO**:
 - 
 _____
