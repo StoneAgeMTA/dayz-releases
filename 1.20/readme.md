@@ -2,32 +2,39 @@
 
 ## **ADICIONADO**:
 - Novo local militar: **Bunker**
-> <img src="https://i.imgur.com/XgPzVuV.png" height=300/>
-> - Localizado em Back o Beyond (Flint County);
-> - Só pode ser aberto com o novo cartão **Punched Card**;
-> - Em seu interior você encontrará itens militares raros.
+  - Localizado em Back o Beyond (Flint County);
+  - Só pode ser aberto com o novo cartão **Punched Card**;
+  - Em seu interior você encontrará itens militares raros.
+
+<img src="https://i.imgur.com/XgPzVuV.png" height=300/>
 
 - Novo item: **Punched Card**
+   - Utilizado para abrir o portão do Bunker;
+   - Extremamente raro, encontrado apenas em crashes.
 
-> | Punched Card |
-> |--------------|
-> |<img src="https://i.imgur.com/JdKwVIN.png"/> |
-> - Utilizado para abrir o portão do Bunker;
-> - Extremamente raro, encontrado apenas em crashes.
+| Punched Card |
+|--------------|
+|<img src="https://i.imgur.com/JdKwVIN.png"/> |
+
 
 - Novo rifle: **VS-89**
-> | VS-89 |
-> |-------|
-> |<img src="https://i.imgur.com/GqNQBDG.png"/> |> 
-> - Suporta 10 munições 7.62x54mm;
-> - Extremamente forte, nenhum colete e/ou capacete suporta um disparo a curto ou longo alcance;
-> - Encontrada apenas no interior do novo **Bunker**.
+	- Suporta 10 munições 7.62x54mm;
+	- Extremamente forte, nenhum colete e/ou capacete suporta um disparo a curto ou longo alcance;
+	- Encontrada apenas no interior do novo **Bunker**.
+
+| VS-89 |
+|-------|
+|<img src="https://i.imgur.com/GqNQBDG.png"/> |> 
+
 
 - Novos detalhes/locais pelo mapa:
-> <img src="https://i.imgur.com/FignNu2.png" height=300/>
+
+	<img src="https://i.imgur.com/FignNu2.png" height=300/>
 
 - Nova árvore que pode de ser cortada utilizando qualquer machado;
-> <img src="https://i.imgur.com/WWetsF9.png" height=300/>
+
+	<img src="https://i.imgur.com/WWetsF9.png" height=300/>
+
 - Logs de banimentos no Discord;
 - Novos spawns de galinhas e lobos.
 
@@ -47,12 +54,13 @@
 - Balanceado os valores dos itens na loja (F3);
 - Removido a proteção do Assault Vest contra projéteis;
 - Reduzidas/substuídas diversas árvores em Palomino.
-> - Bases remodeladas:
-> 
-> | ID/Categoria | Imagem |
-> | :--: | :--: |
-> | Base 14 (Categoria 1) | <img src="https://i.imgur.com/uu7RKln.png" height=250/> |
-> | Base 15 (Categoria 1) | <img src="https://i.imgur.com/PokcadT.png" height=250/> |
+
+- Bases remodeladas:
+ 
+| ID/Categoria | Imagem |
+| :--: | :--: |
+| Base 14 (Categoria 1) | <img src="https://i.imgur.com/uu7RKln.png" height=250/> |
+| Base 15 (Categoria 1) | <img src="https://i.imgur.com/PokcadT.png" height=250/> |
 
 - Diversas melhorias no Anti-cheat (VAC Anti-cheat).
 
@@ -64,4 +72,4 @@
 _____
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
-[Versão 1.19.6](https://www.stoneagemta.com/releases/dayz/1.19.6) |
+[Versão 1.19.6](https://www.stoneagemta.com/releases/dayz/1.19.6) | 
