@@ -34,6 +34,7 @@
 - Novos detalhes/locais pelo mapa:
 
 	<img src="https://i.imgur.com/FignNu2.png" height=300/>
+  <img src="https://i.imgur.com/XvpgwnQ.png" height=300/>
 
 - Nova árvore que pode de ser cortada utilizando qualquer machado;
 
