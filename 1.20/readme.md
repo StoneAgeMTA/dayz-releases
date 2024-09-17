@@ -6,10 +6,11 @@
   - Só pode ser aberto com o novo cartão **Punched Card**;
   - Em seu interior você encontrará itens militares raros.
 
-| | | |
-| :--: | :--: | :--: |
-| <img src="https://i.imgur.com/XgPzVuV.png" height=250/> | <img src="https://i.imgur.com/iEDDLCd.png" height=250/> |
-| <img src="https://i.imgur.com/L40Nrkr.png" height=250/> | <img src="https://i.imgur.com/Mzq0ERR.png" height=250/> |
+<img src="https://i.imgur.com/XgPzVuV.png" height=250/> 
+<img src="https://i.imgur.com/iEDDLCd.png" height=250/>
+
+<img src="https://i.imgur.com/L40Nrkr.png" height=250/>
+<img src="https://i.imgur.com/Mzq0ERR.png" height=250/> 
 
 
 - Novo item: **Punched Card**
