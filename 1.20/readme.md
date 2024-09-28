@@ -33,7 +33,7 @@
 
 - Novos detalhes/locais pelo mapa:
 
-	  <img src="https://i.imgur.com/FignNu2.png" height=300/>
+	<img src="https://i.imgur.com/FignNu2.png" height=300/>
     <img src="https://i.imgur.com/XvpgwnQ.png" height=300/>
     <img src="https://i.imgur.com/hsx2g71.png" height=300/>
     <img src="https://i.imgur.com/qlfSAIQ.png" height=300/>
