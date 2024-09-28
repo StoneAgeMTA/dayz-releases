@@ -33,12 +33,14 @@
 
 - Novos detalhes/locais pelo mapa:
 
-	<img src="https://i.imgur.com/FignNu2.png" height=300/>
+	  <img src="https://i.imgur.com/FignNu2.png" height=300/>
     <img src="https://i.imgur.com/XvpgwnQ.png" height=300/>
     <img src="https://i.imgur.com/hsx2g71.png" height=300/>
     <img src="https://i.imgur.com/qlfSAIQ.png" height=300/>
     <img src="https://i.imgur.com/nXqirG9.png" height=300/>
     <img src="https://i.imgur.com/rNNZBaf.png" height=300/>
+    <img src="https://i.imgur.com/cu5krbZ.png" height=300/>
+    <img src="https://i.imgur.com/eDQU4Gd.png" height=300/>
   
 
 - Nova árvore que pode de ser cortada utilizando qualquer machado;
@@ -76,10 +78,7 @@ _____
 - Ao desmaiar não será possível abrir o mapa e inventário, e nem se movimentar;
 _____
 ## **CORRIGIDO**:
-- 
-_____
-## **REMOVIDO**:
-- 
+- Correções no sistema de dano (sync).
 _____
 ← Anterior             |  Próximo →
 :-------------------------:|:-------------------------:
